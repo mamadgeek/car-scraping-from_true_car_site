@@ -1,2 +1,2 @@
-# car-scraping-from_truecar_site
-this python code scrapes truecar site and results the relevant dataset
+# scrape the [true car sit](https://www.truecar.com/) 
+this python code scrapes tr uecar site and results the relevant dataset
